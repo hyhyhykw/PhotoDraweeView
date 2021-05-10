@@ -1,6 +1,6 @@
 # PhotoDraweeView
 Forked from [ongakuer/PhotoDraweeView](https://github.com/ongakuer/PhotoDraweeView.git)
-
+删掉jcenter相关的数据
 
 [PhotoView](https://github.com/chrisbanes/PhotoView) For [Fresco](https://github.com/facebook/fresco)
 
